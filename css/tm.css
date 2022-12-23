@@ -1,0 +1,776 @@
+*{
+    margin:0px;
+    padding:0px;
+}
+h1,h2
+{
+    color:white;
+    font-display: block;
+    text-align: center;
+    font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+
+body
+{
+    margin-top:0px;
+    background-color:rebeccapurple;
+    box-shadow:
+    0px  0px 1000px white,
+    inset 0px  0px 1000px white;
+
+}
+input{
+    font-family: -apple-system,BlinkMacSystemFont, Segoe UI, Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-size:14px;
+    margin-left:50px;
+    width:390px;
+    height:50px;   
+    border-radius:3px;
+    padding:2px;
+    margin:2px;
+    border:1px solid rebeccapurple;
+}
+
+
+
+label
+{
+    font-size: 12px;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+
+
+}
+#tmffForms
+{   
+        border-radius: 2px;
+        margin-top:-50px;
+        opacity:1;
+        background-color:white;
+        box-shadow:
+        2px  2px 100px rebeccapurple,
+        inset 2px  2px 100px rebeccapurple;  
+        width:400px;
+        height:450px;
+        margin-left:380px;
+        padding:60px;
+        border:1px solid rebeccapurple;
+    
+}
+
+#tm1Forms
+{   
+        border-radius: 2px;
+        margin-top:-90px;
+        opacity:1;
+        background-color:white;
+        box-shadow:
+        2px  2px 100px rebeccapurple,
+        inset 2px  2px 100px rebeccapurple;  
+        width:400px;
+        height:510px;
+        margin-left:380px;
+        padding:60px;
+        border:1px solid rebeccapurple;
+    
+}
+#tmffForms input:hover
+    {
+        font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+        font-style: inherit;
+        border:1px solid rebeccapurple;
+    }
+#Forms
+{   
+ 
+    border-radius: 2px;
+    margin-top:-50px;
+    opacity:1;
+    background-color:white;
+    box-shadow:
+    2px  2px 100px rebeccapurple,
+    inset 2px  2px 100px rebeccapurple;  
+    width:700px;
+    height:700px;
+    margin-left:250px;
+    padding:60px;
+    border:1px solid rebeccapurple;
+
+}
+#Forms input:hover
+{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-style: inherit;
+    border:1px solid rebeccapurple;
+}
+#option
+{   
+
+    width:300px;
+    height:50px;
+    padding:10px;
+    margin-top:10px;
+    border-radius:5px;
+}
+
+
+#Compinfo
+{   
+    border-radius: 2px;
+    margin-top:0px;
+    opacity:1;
+    background-color:black;
+    width:450px;
+    height:800px;
+    margin-left:1000px;
+    padding:60px;
+
+}
+
+#Compinfo input:hover
+{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-style: inherit;
+    font-size: 18px;
+    border-color:green;
+}
+#option:hover
+{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 18px;
+    border-color:green;
+}
+
+#disc
+{
+    text-align:center;
+    font-size:15px;
+    border-radius: 5px;
+    width:600px;
+    height:50px;
+    padding:10px;
+    margin-top:10px;
+ } 
+ 
+#options
+{   
+    width:750px;
+    height:50px;
+    padding:10px;
+    margin-top:10px;
+    border-radius:5px;
+}
+ 
+ #optione{
+     
+    width:750px;
+    height:50px;
+    padding:10px;
+    margin-top:10px;
+    border-radius:5px;
+}
+ 
+ #optionee
+ {
+     
+    width:750px;
+    height:50px;
+    padding:10px;
+    margin-top:10px;
+    border-radius:5px;
+ }
+ #optioneee{
+     
+    width:750px;
+    height:50px;
+    padding:10px;
+    margin-top:10px;
+    border-radius:5px;
+ }
+ #optioneeee{
+     
+    width:300px;
+    height:50px;
+    padding:10px;
+    margin-top:10px;
+    border-radius:5px;
+ }
+ 
+ #optioneeeee{
+     
+    width:392px;
+    height:50px;
+    padding:10px;
+    margin-top:10px;
+    border-radius:5px;
+ }
+#discs
+{
+    text-align:center;
+    font-size:15px;
+    border-radius: 5px;
+    width:750px;
+    height:50px;
+    padding:10px;
+    margin-top:10px;
+ } 
+#Companyinfo
+{   
+    border-radius: 2px;
+    margin-top:0px;
+    opacity:1;
+    background-color:transparent;
+    width:850px;
+    height:800px;
+    margin-left:0px;
+    padding:60px;
+}
+
+#Companyinfo input:hover
+{
+	overflow:auto;
+	font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-style: inherit;
+    font-size: 18px;
+    border-color:green;
+}
+#tr
+{
+    text-align:center;
+    color:black;
+    font-family: '-apple-system', 'BlinkMacSystemFont', 'Segoe UI', 'Roboto', 'Oxygen', 'Ubuntu', 'Cantarell', 'Open Sans', 'Helvetica Neue', sans-serif;
+ 
+}
+fieldset{
+    border:2px solid black;
+    border-radius:5px;
+    width: 850px;
+    margin-top:10px;
+    margin-left:0px;
+}
+
+.drop{
+    font-family: Times New Roman, Times, serif;
+    font-weight: bold;
+    margin-top:0px;
+    text-decoration: none;
+    color:white;
+    font-size:18px;
+    padding-top:20px;
+    padding:25px;
+    
+    
+}
+#headform
+{
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    text-align: center;
+    padding:20px;
+}
+
+#tmffhead
+{
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    text-align: center;
+    padding:20px;
+}
+#check
+{
+    width:15px;
+    height:15px;
+}
+#upload
+{
+width:200px;
+height:30px;
+
+}
+#colorc
+{   
+    width:50px;
+    height:30px;
+
+}
+#rad{
+    width:15px;
+    height:15px;
+}
+
+#che
+{
+    width:15px;
+    height:15px;
+}
+#gg
+{
+    width:750px;
+    height:80px;
+    margin-left:-10px;
+    background-color:transparent;
+}
+
+#kk
+{      
+    text-align: justify;
+    width:690px;
+    height:300px;
+    margin-left:0px;
+    overflow-y: scroll;
+    border-radius:5px;
+    border: 1px solid black;
+    padding:10px;
+    background-color:white;
+   
+}
+
+#kkk
+{
+    text-align: justify;
+    width:690px;
+    height:300px;
+    margin-left:0px;
+    overflow-y: scroll;
+    border-radius:5px;
+    border: 1px solid black;
+    padding:10px;
+    background-color:white;
+    display: none;
+}
+
+#mm
+{
+    width:750px;
+    height:120px;
+    overflow-y: scroll;
+    border-radius:5px;
+    border: 1px solid black;
+    background-color:white;
+}
+#servic
+{   
+
+    width:710px;
+    height:50px;
+    padding:10px;
+    margin-top:10px;
+    border-radius:5px;
+}
+#opti
+{   
+
+    width:710px;
+    height:50px;
+    padding:10px;
+    margin-top:10px;
+    border-radius:5px;
+}
+#ch
+{
+    width:15px;
+    height:15px;
+}
+#lab
+
+{   
+     width:280px;
+    text-align:center;
+    margin-top:0px;
+    padding:10px;
+    height:20px;
+    font-size:20px;
+    font-family: 'Times New Roman', Times, serif;
+    color:rgb(22, 79, 236);
+  
+}
+#lab2
+
+{   
+    width:280px;
+    text-align:center;
+    margin-top:0px;
+    padding:10px;
+    height:20px;
+    font-size:20px;
+    font-family: 'Times New Roman', Times, serif;
+    color:rgb(22, 79, 236);
+  
+}
+
+#fields
+{   font-size: 16px;
+    font-display: fallback;
+    width:340px;
+    padding:40px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    margin:40px 100px 20px -20px;
+    height:30px;
+    border-radius:3px;
+    
+}
+
+#fieldss
+{   
+    font-size: 16px;
+    width:340px;
+    padding:40px;
+    margin:40px 50px 30px -20px;
+    height:30px;
+    border-radius:3px;
+    
+}
+#fields:hover
+{
+    border-bottom-color: black;
+    border-image: 2px;
+    border-right-color: black;
+    background-color:cornsilk;
+}
+
+#fieldss:hover
+{
+    background-color:cornsilk;
+    border-right-color: black;
+    border-bottom-color: black;
+    border-image: 2px;
+}
+
+#logins
+{
+border-radius: 2px;
+opacity:0.6;
+background-color:cornsilk;
+width: 300px;
+height:400px;
+padding:50px;
+margin:50px 280px 0px 480px;
+}
+#logb
+{   font-size:15px;
+    font-weight:bold;
+    width:120px;
+    height:40px;
+   margin:0px 40px 10px 180px;
+}
+#logb:hover
+{   background-color:cornsilk;
+    border-bottom-color: black;
+    height:40px;
+}
+#logbb
+{   font-size:12px;
+    font-weight:bold;
+    width:100px;
+    height:40px;
+    border-radius:1px;
+    border-color:1px solid rebeccapurple;
+   margin:15px 0px 0px 200px;
+}
+#logbb:hover
+{   background-color:rebeccapurple;
+    color:white;
+    border-bottom:1px solid white;
+    height:40px;
+    font-size: 14px;
+}
+#Uplo{
+    border:1px solid rebeccapurple;
+    font-size:12px;
+    font-weight:bold;
+    width:100px;
+    height:40px;
+    position: absolute; 
+   margin:15px 0px 0px -220px;
+}
+
+#Uplo:hover{
+    border:1px solid white;
+    background-color: rebeccapurple;
+    font-size:12px;
+    color:white;
+    font-weight:bold;
+    width:100px;
+    height:40px;
+    position: absolute; 
+    margin:15px 0px 0px -220px;
+}
+#uploa{
+    border:2px solid black;
+    margin-top:0px;
+    width:590px;
+    border-radius:5px;
+    height:60px;
+    
+    
+}
+#up{
+    width:15px;
+    height:15px;
+}
+#ll{
+    width:300px;
+    height:50px;
+    background-color:gray;
+}
+/*#header{*/
+/*    margin-top:-40px;*/
+/*    margin-left: 20px;*/
+    
+/*}*/
+/*#header li*/
+/*{*/
+/*    list-style:none;*/
+/*    float:left;*/
+/*    margin-top:50px;*/
+/*    margin-left:2px;*/
+/*    text-align:center;*/
+/*}*/
+
+/*#header li a */
+/*{*/
+    
+/*    border:1px solid white;*/
+/*    color:white;*/
+/*    border-radius: 2px;*/
+/*    font-family: Arial, Helvetica, sans-serif;*/
+/*    font-weight: bold;*/
+/*    padding:20px;*/
+/*    text-decoration:none;*/
+/*}*/
+/*#header li a:hover*/
+/*{   */
+/*    border-bottom-color: black;*/
+/*    color:black;*/
+/*    font-family:Helvetica, sans-serif;*/
+/*    font-weight: bold;*/
+/*    text-decoration: none;*/
+/*}*/
+
+.headers{
+    margin-top:0px;
+    background-color:black;
+    opacity: 0.7;
+    width: 1365px;
+    height:80px;
+    z-index: 1;
+    position:fixed;
+    box-shadow: 2px 2px 2px 1px black;
+}
+
+.header{
+    margin-top:-40px;
+    margin-left: 450px;
+    background-color:white;
+    
+}
+.header li
+{
+    list-style:none;
+    float:left;
+    margin-top:70px;
+    margin-left:6px;
+    text-align:center;
+}
+.header li a 
+{   
+    border:1px solid white;
+    color:white;
+    border-radius:5px;
+    font-family:Arial, Helvetica, sans-serif;
+    font-weight:bold;
+    padding:20px;
+    text-decoration:none;
+}
+.header li a:hover
+{   
+    border-bottom-color: black;
+    color:gray;
+    font-family:Helvetica, sans-serif;
+    font-weight: bold;
+    text-decoration: none;
+}
+.footer
+{
+    position: relative;
+    width: 1365px;
+    height:200px;
+    box-shadow: 2px 2px 2px 1px black;
+    opacity: 0.7;
+    background-color:black;
+}
+.footers{
+    margin-top:0px;
+    margin-left: 20px;
+}
+.footers li
+{
+    list-style:none;
+    margin-top:10px;
+    margin-left:0px;
+}
+.footers li a 
+{
+    color:white;
+    font-family: Arial, Helvetica, sans-serif;
+    padding:20px;
+    text-decoration:none;
+}
+.footers li a:hover
+{   color:gray;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode';
+    font-weight: bold;
+    text-decoration: none;
+}
+#content{
+    text-align:center;
+    color:white;
+    font-size:16px;
+}
+/* .heading:hover
+{
+    color:white;
+
+} */
+/*
+#Tradmarks
+{
+    border-radius: 2px;
+    opacity:0.7;
+    background-color:White;
+    width:800px;
+    height:500px;
+    margin-left:300px;
+    padding:60px;
+}
+
+#Trademarks input:hover
+{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-style: inherit;
+    font-size: 18px;
+    border-color:green;
+} */
+
+/* .collepse
+{
+    border:2px solid black;
+    width:610px;
+    display:none;
+
+} */
+
+/* #header 
+{   margin-right:20px;     
+}
+#header ul 
+{ 
+    list-style:none;
+        margin-top:0px; 
+}
+#header li a
+{
+text-decoration:none;
+padding:6px;
+border-radius:5px;
+color:white;
+font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+font-size:20px;
+float:right;
+border:0.7px solid silver;
+margin-left:20px;
+}
+#header li a:hover
+{
+     border-bottom-color: black;
+}
+#down
+{
+    background-color:black;
+    width:500px;
+      height:800px;
+    
+} */ 
+/* #header{
+    background-color:white;
+    width:600px;
+    height:800px;
+}
+#headbar{
+background-color:black;
+width:600px;
+height:200px;
+} */
+/* #options
+{   
+    width:450;
+    height:50;
+    padding:10px;
+    margin-top:10px;
+    border-radius:5px;
+ }
+ #check
+ {
+    width:20px;
+    height:20px;
+ }
+
+         */
+
+#godSer{
+    width:200px;
+    height:50px;
+    margin-left:430px;
+    margin-top:-30px;
+    background-color:transparent;
+    }
+    #heading{
+        margin-top:2px;
+        margin-left: 20px;
+        top:50px;
+        font-size:20px;
+        color:black;
+        font-family: Georgia, 'Times New Roman', Times, serif;
+        text-align:left;
+    }
+    
+    
+#Close{
+    transition:1s;
+    transition-timing-function: ease-in-out;
+     position:absolute;
+     font-size:18px;
+     transform: rotate(60);
+     margin-left:850px;
+     color:black;
+     margin-top:-10px;
+     padding:7px;
+     border-radius:100px;
+     border:2px solid rebeccapurple;
+     
+ }
+ 
+#Closee{
+    transition:1s;
+    transition-timing-function: ease-in-out;
+     position:absolute;
+     font-size:18px;
+     transform: rotate(60);
+     margin-left:800px;
+     color:black;
+     margin-top:-10px;
+     padding:7px;
+     border-radius:100px;
+     border:2px solid rebeccapurple;
+     
+ }
+ 
+ #Close{
+     position:absolute;
+     font-size:18px;
+     transform: rotate(60);
+     margin-left:950px;
+     color:black;
+     margin-top:-10px;
+     padding:7   px;
+     border-radius:100px;
+     border:2px solid rebeccapurple;
+ }
+ 
